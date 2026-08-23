@@ -6,7 +6,7 @@
 
 ## 📊 Overall Progress
 
-- [ ] 01 — Basics
+- [x] 01 — Basics
 - [ ] 02 — Conditionals
 - [ ] 03 — Loops
 - [ ] 04 — Data Structures
